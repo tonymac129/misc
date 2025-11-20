@@ -1,5 +1,20 @@
+import { HashRouter, Routes, Route } from "react-router";
+import ScrollTop from "./components/ScrollTop";
+import Nav from "./components/Nav";
+import Home from "./pages/Home";
+import Learning from "./pages/Learning";
+
 function App() {
-  return <>Misc projects</>;
+  return (
+    <HashRouter>
+      <ScrollTop />
+      <Nav />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/learning" element={<Learning />} />
+      </Routes>
+    </HashRouter>
+  );
 }
 
 export default App;

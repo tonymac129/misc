@@ -1,17 +1,23 @@
 {
+  "homepage": "https://tonymac129.github.io/misc",
   "name": "misc",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
+    "framer-motion": "^12.23.24",
+    "gh-pages": "^6.3.0",
     "react": "^19.2.0",
-    "react-dom": "^19.2.0"
+    "react-dom": "^19.2.0",
+    "react-router": "^7.9.6"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
