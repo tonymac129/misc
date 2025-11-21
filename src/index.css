@@ -26,6 +26,8 @@ body {
   position: sticky;
   top: 0;
   border-bottom: 2px solid var(--primary-border);
+  background-color: var(--primary-bg);
+  z-index: 100;
 }
 
 .nav-link {
