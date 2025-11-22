@@ -4,7 +4,7 @@
       "id": 2,
       "name": "Animated Input",
       "description": "A pure CSS interactive input field animation I made following a YouTube tutorial.",
-      "link": "/projects/animated-input/index.html",
+      "link": "/misc/projects/animated-input/index.html",
       "tags": [
         "Learning",
         "Animation",
@@ -19,7 +19,7 @@
       "id": 3,
       "name": "Animated Text",
       "description": "A smooth animation where a text section fades in on scroll, made using a YouTube tutorial.",
-      "link": "/projects/animated-text/index.html",
+      "link": "/misc/projects/animated-text/index.html",
       "tags": [
         "Learning",
         "Animation",
@@ -35,7 +35,7 @@
       "id": 13,
       "name": "Custom Context Menu",
       "description": "A simple custom right click context menu with different features made with JS.",
-      "link": "/projects/custom-menu/index.html",
+      "link": "/misc/projects/custom-menu/index.html",
       "tags": [
         "Learning",
         "Dec 2023"
@@ -50,7 +50,7 @@
       "id": 20,
       "name": "Filtering",
       "description": "A JS array manipulation learning project with sorting and filtering features for a list of items.",
-      "link": "/projects/filter/index.html",
+      "link": "/misc/projects/filter/index.html",
       "tags": [
         "Learning",
         "Jun 2024"
@@ -65,7 +65,7 @@
       "id": 42,
       "name": "Framer Motion Animations",
       "description": "I followed a YouTube tutorial to learn Framer Motion for the first time and made some animations to apply what I'd learned.",
-      "link": "/projects/framer-motion/index.html",
+      "link": "/misc/projects/framer-motion/index.html",
       "tags": [
         "Learning",
         "Animation",
@@ -80,7 +80,7 @@
       "id": 7,
       "name": "Geometric Calculator",
       "description": "Made this JS project to help calculating but mostly cheating in math >:)",
-      "link": "/projects/geometric-sequences/index.html",
+      "link": "/misc/projects/geometric-sequences/index.html",
       "tags": [
         "Learning",
         "Feb 2023"
@@ -95,7 +95,7 @@
       "id": 8,
       "name": "Image Slider",
       "description": "An image sliding app completely copied off a YouTube video.",
-      "link": "/projects/image-slider/index.html",
+      "link": "/misc/projects/image-slider/index.html",
       "tags": [
         "Learning",
         "Feb 2023"
@@ -110,7 +110,7 @@
       "id": 9,
       "name": "Moon Animation",
       "description": "A mini animation player of different phases of the moon with speed controls.",
-      "link": "/projects/moon-phases/index.html",
+      "link": "/misc/projects/moon-phases/index.html",
       "tags": [
         "Fun",
         "Jun 2023"
@@ -125,7 +125,7 @@
       "id": 11,
       "name": "Movable Element",
       "description": "A movable/draggable element using JS for a MacVG feature.",
-      "link": "/projects/movable-element/index.html",
+      "link": "/misc/projects/movable-element/index.html",
       "tags": [
         "Learning",
         "MacWeb",
@@ -141,7 +141,7 @@
       "id": 41,
       "name": "ProComp",
       "description": "A mocking mock-up of a professional company's website.",
-      "link": "/projects/pro-comp/index.html",
+      "link": "/misc/projects/pro-comp/index.html",
       "tags": [
         "Design",
         "May 2025"
@@ -155,7 +155,7 @@
       "id": 6,
       "name": "Quadratic Calculator",
       "description": "Made this JS project so I don't have to remember the quadratic formula >:)",
-      "link": "/projects/quadratic-calculator/index.html",
+      "link": "/misc/projects/quadratic-calculator/index.html",
       "tags": [
         "Learning",
         "Feb 2023"
@@ -170,7 +170,7 @@
       "id": 14,
       "name": "Screenshot",
       "description": "A screenshot app that captures the webpage and downloads using the JS library html2canvas.",
-      "link": "/projects/screenshot/index.html",
+      "link": "/misc/projects/screenshot/index.html",
       "tags": [
         "Learning",
         "Library",
@@ -186,7 +186,7 @@
       "id": 1,
       "name": "Text Animation",
       "description": "A basic CSS-only text animation I made following a YouTube tutorial involving text stroke.",
-      "link": "/projects/text-animation/index.html",
+      "link": "/misc/projects/text-animation/index.html",
       "tags": [
         "Learning",
         "Animation",
@@ -201,7 +201,7 @@
       "id": 24,
       "name": "Wave Visualizer",
       "description": "A little tool that lets you visualize data as waves.",
-      "link": "/projects/wave-visualizer/index.html",
+      "link": "/misc/projects/wave-visualizer/index.html",
       "tags": [
         "Learning",
         "Sep 2024"
@@ -216,7 +216,7 @@
       "id": 37,
       "name": "Polygon Calculator",
       "description": "Calculator for a polygon's angle measures.",
-      "link": "/projects/polygon-calculator/index.html",
+      "link": "/misc/projects/polygon-calculator/index.html",
       "tags": [
         "Web App",
         "Feb 2025"
@@ -258,7 +258,7 @@
       "id": 25,
       "name": "Jokepedia",
       "description": "A random joke generator made using JokeAPI.",
-      "link": "/projects/jokepedia/index.html",
+      "link": "/misc/projects/jokepedia/index.html",
       "tags": [
         "Web App",
         "Sep 2024"
@@ -273,7 +273,7 @@
       "id": 19,
       "name": "CodeLabs",
       "description": "A simple code playgorund sandbox for web development that updates in real time.",
-      "link": "/projects/code-lab/index.html",
+      "link": "/misc/projects/code-lab/index.html",
       "tags": [
         "Web App",
         "Jun 2024"
@@ -288,10 +288,106 @@
       "id": 16,
       "name": "Text Goofifier",
       "description": "This app makes the text you paste in look goofy.",
-      "link": "/projects/text-modifier/index.html",
+      "link": "/misc/projects/text-modifier/index.html",
       "tags": [
         "Learning",
         "Feb 2024"
+      ],
+      "skills": [
+        "HTML",
+        "CSS",
+        "JS"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Announcement",
+      "description": "Announcement banner",
+      "link": "/misc/projects/announcement/index.html",
+      "tags": [
+        "Learning"
+      ],
+      "skills": [
+        "HTML",
+        "CSS",
+        "JS"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "CSS Grid",
+      "description": "CSS grid and responsive design learning page",
+      "link": "/misc/projects/css-grid/index.html",
+      "tags": [
+        "Learning"
+      ],
+      "skills": [
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Image Transition",
+      "description": "Cool image transition project for learning basic JS",
+      "link": "/misc/projects/image-transition/index.html",
+      "tags": [
+        "Learning"
+      ],
+      "skills": [
+        "HTML",
+        "CSS",
+        "JS"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "IMDb Redesign",
+      "description": "Incomplete redesign of IMDb that's not very good",
+      "link": "/misc/projects/imdb/index.html",
+      "tags": [
+        "Redesign"
+      ],
+      "skills": [
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Popup",
+      "description": "A popup modal for learning JS and as a prototype for another project",
+      "link": "/misc/projects/popup/index.html",
+      "tags": [
+        "Learning"
+      ],
+      "skills": [
+        "HTML",
+        "CSS",
+        "JS"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Vanilla Tilt",
+      "description": "A card with cool hover effects and design using vanilla tilt JS library",
+      "link": "/misc/projects/tilt-design/index.html",
+      "tags": [
+        "Learning"
+      ],
+      "skills": [
+        "HTML",
+        "CSS",
+        "JS"
+      ]
+    },
+    {
+      "id": 56,
+      "name": "MacVG Prototype",
+      "description": "Very first version of the popular game site MacVG",
+      "link": "/misc/projects/tonymac129/index.html",
+      "tags": [
+        "Redesign"
       ],
       "skills": [
         "HTML",

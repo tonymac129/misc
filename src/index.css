@@ -64,3 +64,75 @@ body {
   line-height: 28px;
   width: 40%;
 }
+
+.projects-search {
+  margin-inline: calc(50% - 250px);
+  width: 500px;
+  background-color: var(--primary-bg);
+  color: var(--primary-text);
+  font-size: 20px;
+  border: 2px solid var(--primary-border);
+  border-radius: 500px;
+  padding: 10px 30px;
+  outline: none;
+}
+
+.message {
+  color: var(--secondary-text);
+}
+
+.message a {
+  color: var(--secondary-text);
+}
+
+.projects {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  padding-inline: 100px;
+  padding-block: 50px;
+}
+
+.project {
+  border: 2px solid var(--primary-border);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 15px;
+  width: 250px;
+  cursor: pointer;
+  color: var(--secondary-text);
+  font-size: 15px;
+  line-height: 20px;
+}
+
+.project-name {
+  color: var(--primary-text);
+  font-size: 18px;
+}
+
+.project-tags {
+  display: flex;
+  gap: 5px;
+}
+
+.project-tag {
+  background-color: var(--primary-border);
+  border-radius: 5px;
+  font-size: 12px;
+  padding: 5px;
+}
+
+.footer {
+  text-align: center;
+  padding-block: 50px;
+  color: rgb(150,150,150);
+  font-size: 15px;
+  border-top: 2px solid var(--primary-border);
+}
+
+.footer-link {
+  color: rgb(150, 150, 150);
+}

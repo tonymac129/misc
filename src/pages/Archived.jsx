@@ -1,6 +1,5 @@
 import { motion } from "framer-motion";
 import Hero from "../components/Hero";
-import "./archived.css";
 
 function Archived() {
   return (
@@ -14,37 +13,37 @@ function Archived() {
         <h2 className="archive-section-title">Webpages</h2>
         <ul className="list">
           <li>
-            <a href="/misc/archived/announcement/index.html" target="_blank" className="list-link">
+            <a href="/misc/projects/announcement/index.html" target="_blank" className="list-link">
               Announcement
             </a>
           </li>
           <li>
-            <a href="/misc/archived/css-grid/index.html" target="_blank" className="list-link">
+            <a href="/misc/projects/css-grid/index.html" target="_blank" className="list-link">
               CSS Grid
             </a>
           </li>
           <li>
-            <a href="/misc/archived/image-transition/index.html" target="_blank" className="list-link">
+            <a href="/misc/projects/image-transition/index.html" target="_blank" className="list-link">
               Image Transition
             </a>
           </li>
           <li>
-            <a href="/misc/archived/imdb/index.html" target="_blank" className="list-link">
+            <a href="/misc/projects/imdb/index.html" target="_blank" className="list-link">
               IMDb Redesign
             </a>
           </li>
           <li>
-            <a href="/misc/archived/popup/index.html" target="_blank" className="list-link">
+            <a href="/misc/projects/popup/index.html" target="_blank" className="list-link">
               Popup
             </a>
           </li>
           <li>
-            <a href="/misc/archived/tilt-design/index.html" target="_blank" className="list-link">
+            <a href="/misc/projects/tilt-design/index.html" target="_blank" className="list-link">
               Vanilla Tilt
             </a>
           </li>
           <li>
-            <a href="/misc/archived/tonymac129/index.html" target="_blank" className="list-link">
+            <a href="/misc/projects/tonymac129/index.html" target="_blank" className="list-link">
               MacVG Prototype
             </a>
           </li>
@@ -52,37 +51,37 @@ function Archived() {
         <h2 className="archive-section-title">School Projects</h2>
         <ul className="list">
           <li>
-            <a href="/misc/archived/cell-analogy/index.html" target="_blank" className="list-link">
+            <a href="/misc/projects/cell-analogy/index.html" target="_blank" className="list-link">
               Cell Analogy
             </a>
           </li>
           <li>
-            <a href="/misc/archived/squirrel.pdf" target="_blank" className="list-link">
+            <a href="/misc/projects/squirrel.pdf" target="_blank" className="list-link">
               The Heroic Squirrel
             </a>
           </li>
           <li>
-            <a href="/misc/archived/Civil War Museum Exhibit.pdf" target="_blank" className="list-link">
+            <a href="/misc/projects/Civil War Museum Exhibit.pdf" target="_blank" className="list-link">
               Civil War Museum
             </a>
           </li>
           <li>
-            <a href="/misc/archived/Civil War Amendments.pdf" target="_blank" className="list-link">
+            <a href="/misc/projects/Civil War Amendments.pdf" target="_blank" className="list-link">
               Civil War Amendments
             </a>
           </li>
           <li>
-            <a href="/misc/archived/Fort Sumter Newspaper.pdf" target="_blank" className="list-link">
+            <a href="/misc/projects/Fort Sumter Newspaper.pdf" target="_blank" className="list-link">
               Fort Sumter Newspaper
             </a>
           </li>
           <li>
-            <a href="/misc/archived/Which Balloon Car Runs Farther.pdf" target="_blank" className="list-link">
+            <a href="/misc/projects/Which Balloon Car Runs Farther.pdf" target="_blank" className="list-link">
               Balloon Car Project
             </a>
           </li>
           <li>
-            <a href="/misc/archived/Project Green City.pdf" target="_blank" className="list-link">
+            <a href="/misc/projects/Project Green City.pdf" target="_blank" className="list-link">
               Project Green City
             </a>
           </li>
@@ -92,42 +91,42 @@ function Archived() {
             </a>
           </li>
           <li>
-            <a href="/misc/archived/西餐禮儀.pdf" target="_blank" className="list-link">
+            <a href="/misc/projects/西餐禮儀.pdf" target="_blank" className="list-link">
               西餐禮儀
             </a>
           </li>
           <li>
-            <a href="/misc/archived/摩擦力.pdf" target="_blank" className="list-link">
+            <a href="/misc/projects/摩擦力.pdf" target="_blank" className="list-link">
               摩擦力
             </a>
           </li>
           <li>
-            <a href="/misc/archived/連續整數.pdf" target="_blank" className="list-link">
+            <a href="/misc/projects/連續整數.pdf" target="_blank" className="list-link">
               連續整數
             </a>
           </li>
           <li>
-            <a href="/misc/archived/乾坤扭轉-移位遊戲.pdf" target="_blank" className="list-link">
+            <a href="/misc/projects/乾坤扭轉-移位遊戲.pdf" target="_blank" className="list-link">
               移位遊戲
             </a>
           </li>
           <li>
-            <a href="/misc/archived/愛吃食物.pdf" target="_blank" className="list-link">
+            <a href="/misc/projects/愛吃食物.pdf" target="_blank" className="list-link">
               愛吃食物
             </a>
           </li>
           <li>
-            <a href="/misc/archived/路面積水.pdf" target="_blank" className="list-link">
+            <a href="/misc/projects/路面積水.pdf" target="_blank" className="list-link">
               路面積水
             </a>
           </li>
           <li>
-            <a href="/misc/archived/寶特瓶扇葉.pdf" target="_blank" className="list-link">
+            <a href="/misc/projects/寶特瓶扇葉.pdf" target="_blank" className="list-link">
               寶特瓶扇葉
             </a>
           </li>
           <li>
-            <a href="/misc/archived/水熊蟲.pdf" target="_blank" className="list-link">
+            <a href="/misc/projects/水熊蟲.pdf" target="_blank" className="list-link">
               水熊蟲報告
             </a>
           </li>

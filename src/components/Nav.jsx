@@ -4,13 +4,13 @@ function Nav() {
   return (
     <nav className="nav">
       <Link to="/" className="nav-link">
-        Home
+        Coding
       </Link>
-      <Link to="/learning" className="nav-link">
-        Learning
+      <Link to="/school" className="nav-link">
+        School
       </Link>
-      <Link to="/demos" className="nav-link">
-        Demos
+      <Link to="/other" className="nav-link">
+        Other
       </Link>
     </nav>
   );
